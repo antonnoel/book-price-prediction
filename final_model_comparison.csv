@@ -1,4 +1,0 @@
-Model,RMSE ($),R² Score
-Linear Regression,5.43,0.0813
-k-NN (k=15),5.55,0.0397
-Random Forest (Tuned),4.79,0.2852
